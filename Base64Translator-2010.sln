@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64Translator", "Base64Translator.csproj", "{02EF3BFD-A246-4FD0-9129-96C7F835E3B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64Translator", "Base64Translator\Base64Translator.csproj", "{02EF3BFD-A246-4FD0-9129-96C7F835E3B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

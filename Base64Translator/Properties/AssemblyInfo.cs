@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Base64Translator")]
-[assembly: AssemblyDescription("Simple WinForms app for translating between clear text and Base64 cypher text using various different encodings.")]
+[assembly: AssemblyDescription("Simple WinForms app for translating between clear text and Base64 cipher text using various different encodings.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Base64Translator")]
-[assembly: AssemblyCopyright("Copyright © 2012-2015 Adrian Flood")]
+[assembly: AssemblyCopyright("Copyright © 2012-2016 Adrian Flood")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
